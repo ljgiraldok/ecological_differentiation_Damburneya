@@ -1,17 +1,24 @@
 # ecological_differentiation_Damburneya
-This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest" (Am. J. Bot. in press)
+(A Spanish version of this information can be found below/ Una versión en español de esta información está disponible abajo, despues de la versión en inglés)
+This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest" (Am. J. Bot. in press).
+
 
 Data are available at:
 
 
 Please, cite the data properly if you use them.
 
-To replicate the analyses and plots, users should create a project directory to store results. It is highly recommendend to create an R project in this directory, and use the "here" package to automate the paths for saving files there
+To replicate the analyses and plots, users should create a project directory to store results. It is highly recommendend to create an R project in this directory, and use the "here" package to automate the paths for saving files there.
+
 For that, create the a folder named "Datos" in the project directory and store there the data in .csv format.
 Other folders named "Figuras" and "Resultados" must be created in the project directory.
 
 Scripts' instructions are in Spanish, my first language.
 If you have any doubts, I'll be happy to help.
+
+
+
+
 
 
 # En español: Diferenciación ecológica Damburneya
