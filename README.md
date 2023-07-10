@@ -3,13 +3,14 @@ A Spanish version of this information can be found below
 Una versión en español de esta información está disponible abajo, despues de la versión en inglés
 
 
-This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest (Am. J. Bot. in press)."
-
+This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest (Am. J. Bot.109(9): 1394-1409)."
+The article can be accessed at: https://doi.org/10.1002/ajb2.16056
 
 Data are available at:
+https://doi.org/10.6084/m9.figshare.20452599.v4
 
-
-Please, cite the data properly if you use them.
+Please, cite the data properly if you use them. Data citation is:
+"Giraldo-Kalil, Laura Judith; Núñez-Farfán, Juan (2022). Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20452599.v4"
 
 To replicate the analyses and plots, users should create a project directory to store results. It is highly recommendend to create an R project in this directory, and use the "here" package to automate the paths for saving files there.
 
