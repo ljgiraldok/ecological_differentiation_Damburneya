@@ -1,16 +1,16 @@
 # ecological_differentiation_Damburneya
 A Spanish version of this information can be found below                                                                    
-Una versión en español de esta información está disponible abajo, despues de la versión en inglés
+**Una versión en español de esta información está disponible abajo y en la tabla, después de la versión en inglés**
 
 
-This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest (Am. J. Bot.109(9): 1394-1409)."
+This repository contains the code used to produce the statistical analyses, figures, tables and supplementary Data of the manuscript "Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of *Damburneya* in a tropical rainforest (Am. J. Bot.109(9): 1394-1409)."
 The article can be accessed at: https://doi.org/10.1002/ajb2.16056
 
 Data are available at:
 https://doi.org/10.6084/m9.figshare.20452599.v4
 
 Please, cite the data properly if you use them. Data citation is:
-"Giraldo-Kalil, Laura Judith; Núñez-Farfán, Juan (2022). Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20452599.v4"
+"Giraldo-Kalil, Laura Judith; Núñez-Farfán, Juan (2022). Patterns of leaf trait variation underlie ecological differences among sympatric tree species of *Damburneya* in a tropical rainforest. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20452599.v4"
 
 To replicate the analyses and plots, users should create a project directory to store results. It is highly recommendend to create an R project in this directory, and use the "here" package to automate the paths for saving files there.
 
@@ -36,14 +36,16 @@ If you have any doubts, I'll be happy to help.
 | violin_plots.R | Sp_trait_values.xlsx | Creates the violin plots of traits according to altitude shown in  Appendix S3| Crea las graficas de violín de los rasgos según la altitud que se muestran en el apendice S3 |
 | Mean_plot_trait_soils_regs.R | Mean_trait_values.xlsx | Creates the plots of Fig.3, Fig4, and the appendices S7 and S8 showing the average plot trait values in response to local soil properties | Crea los gráficos de la Fig.3, Fig4, y los apéndices S7 y S8 mostrando los valores medios de los rasgos de la parcela en respuesta a las propiedades locales del suelo |
 
+
 # En español: Diferenciación ecológica Damburneya
 
 Este repositorio contiene el codigo empleado para llevar a cabo los análisis estadísticos, figuras, tablas y material suplementario del manuscrito titulado 
-"Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of Damburneya in a tropical rainforest (Am. J. Bot. en prensa)"
+"Giraldo-Kalil et al. 2022. Patterns of leaf trait variation underlie ecological differences among sympatric tree species of *Damburneya* in a tropical rainforest (Am. J. Bot. en prensa)"
 
-Los datos están disponibles en: 
+Los datos están disponibles en: https://doi.org/10.6084/m9.figshare.20452599.v4
 
-Por favor, cita adecuadamente los datos si los usas.
+Por favor, cita adecuadamente los datos si los usas, asi:
+"Giraldo-Kalil, Laura Judith; Núñez-Farfán, Juan (2022). Patterns of leaf trait variation underlie ecological differences among sympatric tree species of *Damburneya* in a tropical rainforest. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20452599.v4"
 
 Para replicar los analisis y gráficos, los usuarios deben crear un directorio para almacenar los resultados y scripts del proyecto.
 Para ello, es necesario crear allí una carpeta titulada "Datos" y almacenar alli los datos
